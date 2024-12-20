@@ -1,8 +1,1 @@
-# Source Directory
-
-This directory contains all source code for the course migration project:
-
-- /scripts: Python scripts for content scraping and migration
-- /templates: HTML/React templates
-- /modules: Course content organized by module
-- /components: Reusable React components
+IyBTb3VyY2UgRGlyZWN0b3J5CgpUaGlzIGRpcmVjdG9yeSBjb250YWlucyBhbGwgc291cmNlIGNvZGUgZm9yIHRoZSBjb3Vyc2UgbWlncmF0aW9uIHByb2plY3Q6CgotIC9zY3JpcHRzOiBQeXRob24gc2NyaXB0cyBmb3IgY29udGVudCBzY3JhcGluZyBhbmQgbWlncmF0aW9uCi0gL3RlbXBsYXRlczogSFRNTC9SZWFjdCB0ZW1wbGF0ZXMKLSAvbW9kdWxlczogQ291cnNlIGNvbnRlbnQgb3JnYW5pemVkIGJ5IG1vZHVsZQotIC9jb21wb25lbnRzOiBSZXVzYWJsZSBSZWFjdCBjb21wb25lbnRz
