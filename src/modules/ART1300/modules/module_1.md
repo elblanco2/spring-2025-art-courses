@@ -1,28 +1,42 @@
 # Module 1: Foundations of Drawing
 
-## Overview
-This module introduces fundamental drawing principles and techniques.
+## Overview (Weeks 1-3)
+This foundational module introduces basic drawing principles and techniques essential for developing observational skills and understanding value relationships.
 
-## Learning Objectives
+## Learning Objectives:
 - Understand basic drawing principles and value scales
 - Develop observational drawing skills
 - Learn composition basics using viewfinders
 - Master line quality and control
 
-## Assignments
-1. Value House Drawing
-   - Due: Week 1
-   - Objectives: Understanding value relationships
-   - Materials: Graphite pencils, drawing paper
+## Assignments:
 
-2. The Big Challenge Drawing
-   - Due: Week 2
-   - Objectives: Basic skills assessment
-   - Materials: Choice of drawing media
+### 1. Value House Drawing
+- **Objective:** Understanding Value
+- **Materials:** Graphite pencils, drawing paper
+- **Submission:** Digital documentation of process and final work
+- **Assessment:** Value accuracy, technical execution
 
-[Additional assignments detailed here]
+### 2. The Big Challenge Drawing
+- **Objective:** Basic Skills Assessment
+- **Materials:** Choice of drawing media
+- **Submission:** Physical artwork and reflection essay
+- **Assessment:** Observation skills, technical foundation
+
+### 3. Viewfinder Drawing
+- **Objective:** Composition Basics
+- **Materials:** Viewfinder tool, drawing materials
+- **Submission:** Series of compositional studies
+- **Assessment:** Composition principles, spatial awareness
+
+### 4. Mondrian Line
+- **Objective:** Understanding Line
+- **Materials:** Fine-point markers or pens
+- **Submission:** Line quality exercises
+- **Assessment:** Line control, pattern development
 
 ## Resources
+- Value scale reference sheet
+- Viewfinder construction guide
+- Line quality examples
 - Video demonstrations
-- Example galleries
-- Technical guides
