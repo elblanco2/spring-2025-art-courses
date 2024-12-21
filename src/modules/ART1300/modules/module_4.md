@@ -1,7 +1,7 @@
 # Module 4: Experimental Techniques
 
-## Overview (Weeks 12-14)
-Exploration of alternative drawing approaches and mark-making.
+## Overview (Weeks 11-12)
+Focused exploration of alternative drawing approaches and mark-making.
 
 ## Learning Objectives:
 - Explore alternative drawing methods
@@ -10,25 +10,32 @@ Exploration of alternative drawing approaches and mark-making.
 
 ## Assignments:
 
-### 1. Basic Frottage Techniques
+### 1. Basic Frottage Techniques (Week 11)
 - **Objective:** Texture Collection
 - **Materials:** Various papers, graphite
 - **Submission:** Texture library
 - **Assessment:** Technique variety
+- **Points:** 10
 
-### 2. Experimental Mark-Making
+### 2. Experimental Mark-Making (Week 11)
 - **Objective:** Creative Expression
 - **Materials:** Mixed media
 - **Submission:** Process documentation
 - **Assessment:** Innovation, technique
+- **Points:** 10
 
-### 3. Advanced Frottage Integration
+### 3. Advanced Frottage Integration (Week 12)
 - **Objective:** Complex Composition
 - **Materials:** Mixed media, collected textures
 - **Submission:** Final composition
 - **Assessment:** Integration, creativity
+- **Points:** 10
 
 ## Weekly Exploration
 - Material experiments
 - Texture collection
 - Process documentation
+
+## Time Management
+- Week 11: Focus on technique exploration
+- Week 12: Integration and refinement

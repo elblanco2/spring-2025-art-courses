@@ -1,6 +1,6 @@
-# Module 5: Advanced Projects & Integration
+# Module 5: Integration Project
 
-## Overview (Weeks 15-16)
+## Overview (Weeks 13-14)
 Culminating projects demonstrating technical and creative mastery.
 
 ## Learning Objectives:
@@ -10,32 +10,35 @@ Culminating projects demonstrating technical and creative mastery.
 
 ## Assignments:
 
-### 1. Large Still Life
-- **Objective:** Comprehensive Skills Integration
+### 1. Large Still Life Development (Week 13)
+- **Objective:** Complex Composition Planning
 - **Materials:** Choice of media
-- **Submission:**
-  - Preliminary studies
-  - Process documentation
-  - Final large-scale work
-- **Assessment:**
-  - Technical proficiency
-  - Composition
-  - Value relationships
-  - Material handling
+- **Submission:** Studies and preliminary work
+- **Assessment:** Planning and development
+- **Points:** 10
 
-### 2. Portfolio Development & Documentation
-- **Objective:** Professional Presentation
+### 2. Portfolio Work Selection (Week 13)
+- **Objective:** Critical Assessment
 - **Components:**
-  - Selected works from all modules
-  - Artist statement
-  - Technical notes
-  - Digital documentation
-- **Assessment:**
-  - Quality of work selection
-  - Documentation quality
-  - Professional presentation
+  - Work selection process
+  - Documentation planning
+  - Presentation strategy
+- **Assessment:** Selection criteria, organization
+- **Points:** 10
 
-## Final Week Activities
-- Portfolio review
+### 3. Final Project Completion (Week 14)
+- **Objective:** Professional Execution
+- **Materials:** Based on project proposal
+- **Submission:** Completed artwork and documentation
+- **Assessment:** Technical mastery, presentation
+- **Points:** 10
+
+## Portfolio Finalization (Weeks 15-16)
+- Documentation completion
 - Exhibition preparation
-- Documentation workshops
+- Final portfolio review
+
+## Time Management
+- Week 13: Development and planning
+- Week 14: Completion and refinement
+- Weeks 15-16: Documentation and presentation
