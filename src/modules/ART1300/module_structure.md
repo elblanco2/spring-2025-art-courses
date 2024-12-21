@@ -1,62 +1,61 @@
 # ART1300 Drawing - Module Structure
 
-## Course Navigation Guide
-- Each module begins with clear objectives and expectations
-- Consistent weekly structure for predictable learning path
-- Regular feedback opportunities and assessment points
-- Multiple engagement methods (hands-on, discussion, critique)
-
-## Module 1: Foundations of Drawing (Weeks 1-3)
-
-### Learning Objectives:
+## Module 1: Foundations (Weeks 1-4)
+### Learning Objectives
 - Understand basic drawing principles and value scales
 - Develop observational drawing skills
-- Learn composition basics using viewfinders
+- Learn composition basics
 - Master line quality and control
 
-### Success Criteria:
-- Accurate representation of value relationships
-- Proper use of drawing tools and materials
-- Clear understanding of compositional principles
-- Consistent line quality in exercises
-
-### Assignments:
+### Assignments (10 points each)
 1. Value House Drawing
-   - Submission: Digital photos of work
-   - Critique participation required
-   - Assessment rubric provided
-
-2. The Big Challenge Drawing
-   - Initial skill assessment
-   - Self-reflection component
-   - Peer review opportunity
-
+2. Big Challenge Drawing
 3. Viewfinder Drawing
-   - Technical requirements specified
-   - Process documentation required
-   - Multiple iteration options
-
 4. Mondrian Line
-   - Precision exercise
-   - Digital submission guidelines
-   - Reference examples provided
+5. Light and Shadow with Charcoal
 
-### Support Materials:
-- Video demonstrations
-- Written tutorials
-- Example galleries
-- Technical guides
+## Module 2: Form Development (Weeks 5-8)
+### Learning Objectives
+- Master form rendering techniques
+- Understand light and shadow relationships
+- Develop exhibition-ready work
+- Introduce perspective concepts
 
-[Additional modules follow same structure...]
+### Assignments (10 points each)
+1. Allover Drawing
+2. Out of Focus Drawing
+3. Five Versions of Spheres
+4. Student Exhibition Artwork
+5. Value Studies Series
+6. Basic One-Point Perspective
 
-## Assessment Strategy
-- Clear rubrics for each assignment
-- Multiple submission formats accepted
-- Regular feedback opportunities
-- Self-assessment components
+## Module 3: Technical Mastery (Weeks 9-11)
+### Learning Objectives
+- Master technical drawing skills
+- Understand complex perspective
+- Develop precision in execution
 
-## Technical Support
-- Canvas help resources
-- Department contact information
-- Tutorial access
-- Equipment guidance
+### Assignments (10 points each)
+1. Two-Point Perspective Studies
+2. Basic Drawing Proportion
+3. Ellipses Drawing Series
+4. Straight Line Exercise Series
+5. Geometric Form Construction
+
+## Module 4: Integration & Completion (Weeks 12-14)
+### Learning Objectives
+- Explore experimental techniques
+- Integrate learned skills
+- Create portfolio-quality work
+
+### Assignments (10 points each)
+1. Basic Frottage Techniques
+2. Experimental Mark-Making
+3. Advanced Frottage Integration
+4. Large Still Life Development
+5. Final Project Completion
+
+## Portfolio Documentation (Weeks 15-16)
+- Documentation of all work
+- Exhibition preparation
+- Final portfolio review
