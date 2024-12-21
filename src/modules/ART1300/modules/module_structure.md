@@ -1,75 +1,59 @@
-# ART1300 Drawing - Complete Module Structure
+# ART1300 Drawing - Module Structure (14-Week Schedule)
 
 ## Module 1: Foundations of Drawing (Weeks 1-3)
+### All Assignments: 10 points each
+1. Value House Drawing (Week 1)
+2. The Big Challenge Drawing (Week 2)
+3. Viewfinder Drawing (Week 2)
+4. Mondrian Line (Week 3)
 
-### Learning Objectives:
-- Understand basic drawing principles and value scales
-- Develop observational drawing skills
-- Learn composition basics using viewfinders
-- Master line quality and control
+## Module 2: Form and Value (Weeks 4-6)
+### All Assignments: 10 points each
+1. Light and Shadow with Charcoal (Week 4)
+2. Allover Drawing (Week 4)
+3. Out of Focus Drawing (Week 5)
+4. Five Versions of Spheres (Week 5)
+5. Value Studies Series (Week 6)
 
-### Assignments:
-1. Value House Drawing (Understanding Value)
-2. The Big Challenge Drawing (Basic Skills Assessment)
-3. Viewfinder Drawing (Composition Basics)
-4. Mondrian Line (Understanding Line)
+## Module 3: Technical Skills (Weeks 7-10)
+### All Assignments: 10 points each
+1. Basic One-Point Perspective (Week 7)
+2. Two-Point Perspective Studies (Week 8)
+3. Basic Drawing Proportion (Week 8)
+4. Ellipses Drawing Series (Week 9)
+5. Straight Line Exercise Series (Week 9)
+6. Geometric Form Construction (Week 10)
 
-## Module 2: Form and Value (Weeks 4-7)
+## Module 4: Experimental Techniques (Weeks 11-12)
+### All Assignments: 10 points each
+1. Basic Frottage Techniques (Week 11)
+2. Experimental Mark-Making (Week 11)
+3. Advanced Frottage Integration (Week 12)
 
-### Learning Objectives:
-- Master charcoal techniques
-- Understand light and shadow relationships
-- Develop form rendering skills
-- Practice atmospheric effects
+## Module 5: Integration Project (Weeks 13-14)
+### All Assignments: 10 points each
+1. Large Still Life Development (Week 13)
+2. Portfolio Work Selection (Week 13)
+3. Final Project Completion (Week 14)
 
-### Assignments:
-1. Light and Shadow with Charcoal
-2. Allover Drawing
-3. Out of Focus Drawing
-4. Five Versions of Spheres
-5. Value Studies Series (3 smaller exercises)
+## Portfolio Finalization (Weeks 15-16)
+- Documentation of all work
+- Exhibition preparation
+- Final portfolio review
 
-## Module 3: Technical Skills (Weeks 8-11)
+## Weekly Ongoing Work
+- Sketchbook practice
+- Technical exercises
+- Artist research
 
-### Learning Objectives:
-- Understand linear perspective
-- Master proportion and measurement
-- Develop precision in drawing
-- Practice geometric form construction
+## Skill Progression Adjustments:
+1. Moved perspective studies earlier (Week 7) to allow more practice time
+2. Condensed experimental techniques into focused 2-week block
+3. Integration project now starts Week 13 for full completion by Week 14
+4. Added concurrent skill building throughout all modules
 
-### Assignments:
-1. Basic One-Point Perspective
-2. Two-Point Perspective Studies
-3. Basic Drawing Proportion
-4. Ellipses Drawing Series
-5. Straight Line Exercise Series
-6. Geometric Form Construction
-
-## Module 4: Experimental Techniques (Weeks 12-14)
-
-### Learning Objectives:
-- Explore alternative drawing methods
-- Develop creative mark-making
-- Practice experimental techniques
-
-### Assignments:
-1. Basic Frottage Techniques
-2. Experimental Mark-Making
-3. Advanced Frottage Integration
-
-## Module 5: Advanced Projects & Integration (Weeks 15-16)
-
-### Learning Objectives:
-- Integrate all learned techniques
-- Create portfolio-quality work
-- Master still life composition
-
-### Assignments:
-1. Large Still Life (Major Project)
-2. Portfolio Development & Documentation
-
-## Additional Resources & Ongoing Assignments
-- Art Research Assignment (10 Artists)
-- Weekly Sketchbook Practice
-- Technical Skill Building Exercises
-- Supply List & Materials Guide
+## Time Management Notes:
+- Each week typically has 2 assignments due
+- Technical module has more frequent but smaller assignments
+- Final weeks focus on refinement and presentation
+- No new assignments after Week 14
