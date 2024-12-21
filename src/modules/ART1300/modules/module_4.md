@@ -1,42 +1,34 @@
 # Module 4: Experimental Techniques
 
 ## Overview (Weeks 12-14)
-This module explores alternative drawing approaches and experimental techniques to expand creative mark-making abilities and conceptual understanding.
+Exploration of alternative drawing approaches and mark-making.
 
 ## Learning Objectives:
 - Explore alternative drawing methods
 - Develop creative mark-making
 - Practice experimental techniques
-- Understanding automated processes
 
 ## Assignments:
 
-### 1. Frottage Drawing
-- **Objective:** Texture and Surface Exploration
-- **Materials:** Various papers, graphite, found textures
-- **Submission:** Collection of texture studies and final composition
-- **Assessment:** Texture variety, creative application
+### 1. Basic Frottage Techniques
+- **Objective:** Texture Collection
+- **Materials:** Various papers, graphite
+- **Submission:** Texture library
+- **Assessment:** Technique variety
 
-### 2. Searching Line Drawing
-- **Objective:** Gestural Expression
-- **Materials:** Ink, brush, drawing tools
-- **Submission:** Series of gestural studies
-- **Assessment:** Line expressiveness, compositional energy
+### 2. Experimental Mark-Making
+- **Objective:** Creative Expression
+- **Materials:** Mixed media
+- **Submission:** Process documentation
+- **Assessment:** Innovation, technique
 
-### 3. Advanced Frottage Drawing
-- **Objective:** Complex Texture Integration
+### 3. Advanced Frottage Integration
+- **Objective:** Complex Composition
 - **Materials:** Mixed media, collected textures
-- **Submission:** Large-scale composite work
-- **Assessment:** Texture integration, composition
+- **Submission:** Final composition
+- **Assessment:** Integration, creativity
 
-### 4. Automation Drawing
-- **Objective:** Process-Based Creation
-- **Materials:** Various drawing tools
-- **Submission:** Documentation of process and results
-- **Assessment:** Process development, creative risk-taking
-
-## Resources
-- Texture collection guidelines
-- Historical examples of experimental drawing
-- Process documentation templates
-- Video demonstrations of techniques
+## Weekly Exploration
+- Material experiments
+- Texture collection
+- Process documentation

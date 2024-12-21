@@ -35,8 +35,7 @@ This foundational module introduces basic drawing principles and techniques esse
 - **Submission:** Line quality exercises
 - **Assessment:** Line control, pattern development
 
-## Resources
-- Value scale reference sheet
-- Viewfinder construction guide
-- Line quality examples
-- Video demonstrations
+## Weekly Sketchbook Practice
+- Value scales practice
+- Line quality exercises
+- Basic shape studies

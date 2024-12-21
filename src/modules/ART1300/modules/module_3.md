@@ -1,7 +1,7 @@
 # Module 3: Technical Skills
 
 ## Overview (Weeks 8-11)
-This module develops precision and technical mastery in drawing through focused exercises in perspective and proportion.
+Intensive focus on technical precision and spatial understanding.
 
 ## Learning Objectives:
 - Understand linear perspective
@@ -11,10 +11,41 @@ This module develops precision and technical mastery in drawing through focused 
 
 ## Assignments:
 
-### 1. Basic Drawing Perspective
-- **Objective:** Understanding Linear Perspective
+### 1. Basic One-Point Perspective
+- **Objective:** Fundamental Perspective
 - **Materials:** Rulers, drawing tools
-- **Submission:** Perspective studies
-- **Assessment:** Accuracy, spatial understanding
+- **Submission:** Interior space study
+- **Assessment:** Accuracy, spatial logic
 
-[Additional assignments detailed similarly...]
+### 2. Two-Point Perspective Studies
+- **Objective:** Complex Perspective
+- **Materials:** Technical drawing tools
+- **Submission:** Architectural studies
+- **Assessment:** Technical precision
+
+### 3. Basic Drawing Proportion
+- **Objective:** Measurement and Ratio
+- **Materials:** Measuring tools, pencils
+- **Submission:** Proportion studies
+- **Assessment:** Accuracy, measurement skills
+
+### 4. Ellipses Drawing Series
+- **Study 1:** Basic Ellipses
+- **Study 2:** Ellipses in Perspective
+- **Study 3:** Complex Forms with Ellipses
+
+### 5. Straight Line Exercise Series
+- **Exercise 1:** Parallel Lines
+- **Exercise 2:** Angular Relationships
+- **Exercise 3:** Grid Construction
+
+### 6. Geometric Form Construction
+- **Objective:** 3D Form Building
+- **Materials:** Technical drawing tools
+- **Submission:** Progressive construction studies
+- **Assessment:** Form accuracy, technique
+
+## Weekly Technical Practice
+- Perspective warmups
+- Measurement exercises
+- Form construction drills
