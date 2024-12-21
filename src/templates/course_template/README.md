@@ -1,19 +1,62 @@
-# Course Template
+# [COURSE_CODE] [COURSE_NAME]
 
-This template follows Quality Matters standards and provides a consistent structure for all art courses. Each module includes:
+## Course Structure
 
-- Clear learning objectives
-- Equal-weighted assignments (10 points each)
-- Standard 4-module structure:
-  - Weeks 1-4: Foundations
-  - Weeks 5-8: Development
-  - Weeks 9-11: Technical/Advanced Skills
-  - Weeks 12-14: Integration & Completion
-  - Weeks 15-16: Portfolio & Documentation
+### Module 1: [Title] (Weeks 1-4)
+**Learning Objectives**
+- Objective 1
+- Objective 2
+- Objective 3
+- Objective 4
 
-## Usage
-1. Copy this template directory
-2. Replace [COURSE_CODE] and [COURSE_NAME]
-3. Customize module titles
-4. Add specific learning objectives
-5. Define course-specific assignments
+**Assignments (10 points each)**
+1. Assignment 1
+2. Assignment 2
+3. Assignment 3
+4. Assignment 4
+5. Assignment 5
+
+### Module 2: [Title] (Weeks 5-8)
+**Learning Objectives**
+- Objective 1
+- Objective 2
+- Objective 3
+- Objective 4
+
+**Assignments (10 points each)**
+1. Assignment 1
+2. Assignment 2
+3. Assignment 3
+4. Assignment 4
+5. Assignment 5
+
+### Module 3: [Title] (Weeks 9-11)
+**Learning Objectives**
+- Objective 1
+- Objective 2
+- Objective 3
+
+**Assignments (10 points each)**
+1. Assignment 1
+2. Assignment 2
+3. Assignment 3
+4. Assignment 4
+5. Assignment 5
+
+### Module 4: [Title] (Weeks 12-14)
+**Learning Objectives**
+- Objective 1
+- Objective 2
+- Objective 3
+
+**Assignments (10 points each)**
+1. Assignment 1
+2. Assignment 2
+3. Assignment 3
+4. Assignment 4
+5. Assignment 5
+
+### Portfolio Documentation (Weeks 15-16)
+- Documentation requirements
+- Exhibition preparation
+- Final portfolio review
