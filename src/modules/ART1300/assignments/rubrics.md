@@ -7,4 +7,4 @@
 - Presentation Quality (20%)
 
 ## Assignment-Specific Rubrics
-[Detailed rubrics for each assignment...]
+[Detailed rubrics for each assignment will be added here]
