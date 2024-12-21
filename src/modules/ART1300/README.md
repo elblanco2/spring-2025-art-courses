@@ -1,6 +1,11 @@
 # ART1300 Drawing
 
+## Course Description
+A comprehensive introduction to drawing fundamentals, focusing on observational skills, technical proficiency, and creative expression through a variety of drawing media and techniques.
+
 ## Course Structure
+Total Assignments: 21 (210 points)
+All assignments are worth 10 points each
 
 ### Module 1: Foundations (Weeks 1-4)
 **Learning Objectives**
@@ -9,7 +14,7 @@
 - Learn composition basics
 - Master line quality and control
 
-**Assignments (10 points each)**
+**Assignments (5 assignments, 50 points)**
 1. Value House Drawing
 2. Big Challenge Drawing
 3. Viewfinder Drawing
@@ -23,7 +28,7 @@
 - Develop exhibition-ready work
 - Introduce perspective concepts
 
-**Assignments (10 points each)**
+**Assignments (6 assignments, 60 points)**
 1. Allover Drawing
 2. Out of Focus Drawing
 3. Five Versions of Spheres
@@ -37,7 +42,7 @@
 - Understand complex perspective
 - Develop precision in execution
 
-**Assignments (10 points each)**
+**Assignments (5 assignments, 50 points)**
 1. Two-Point Perspective Studies
 2. Basic Drawing Proportion
 3. Ellipses Drawing Series
@@ -50,7 +55,7 @@
 - Integrate learned skills
 - Create portfolio-quality work
 
-**Assignments (10 points each)**
+**Assignments (5 assignments, 50 points)**
 1. Basic Frottage Techniques
 2. Experimental Mark-Making
 3. Advanced Frottage Integration
