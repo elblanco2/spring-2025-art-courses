@@ -27,6 +27,7 @@
 2. Allover Drawing
 3. Out of Focus Drawing
 4. Five Versions of Spheres
+5. Value Studies Series (3 smaller exercises)
 
 ## Module 3: Technical Skills (Weeks 8-11)
 
@@ -37,10 +38,12 @@
 - Practice geometric form construction
 
 ### Assignments:
-1. Basic Drawing Perspective
-2. Basic Drawing Proportion
-3. Ellipses Drawing
-4. Straight Line Drawing
+1. Basic One-Point Perspective
+2. Two-Point Perspective Studies
+3. Basic Drawing Proportion
+4. Ellipses Drawing Series
+5. Straight Line Exercise Series
+6. Geometric Form Construction
 
 ## Module 4: Experimental Techniques (Weeks 12-14)
 
@@ -48,30 +51,25 @@
 - Explore alternative drawing methods
 - Develop creative mark-making
 - Practice experimental techniques
-- Understanding automated processes
 
 ### Assignments:
-1. Frottage Drawing
-2. Searching Line Drawing
-3. Advanced Frottage Drawing
-4. Automation Drawing
+1. Basic Frottage Techniques
+2. Experimental Mark-Making
+3. Advanced Frottage Integration
 
 ## Module 5: Advanced Projects & Integration (Weeks 15-16)
 
 ### Learning Objectives:
 - Integrate all learned techniques
-- Develop project planning skills
-- Master still life composition
 - Create portfolio-quality work
+- Master still life composition
 
 ### Assignments:
-1. Recreate a Masterpiece
-2. In-class Still Life
-3. Large Still Life
-4. Flag Drawings (Complex Integration)
+1. Large Still Life (Major Project)
+2. Portfolio Development & Documentation
 
-## Additional Resources
+## Additional Resources & Ongoing Assignments
 - Art Research Assignment (10 Artists)
-- Helpful Links Document
-- Supply List
-- Assignment Slides and Supporting Materials
+- Weekly Sketchbook Practice
+- Technical Skill Building Exercises
+- Supply List & Materials Guide
