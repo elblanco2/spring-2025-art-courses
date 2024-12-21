@@ -13,7 +13,8 @@
 2. Allover Drawing (Week 4)
 3. Out of Focus Drawing (Week 5)
 4. Five Versions of Spheres (Week 5)
-5. Value Studies Series (Week 6)
+5. Student Exhibition Artwork (Week 5)
+6. Value Studies Series (Week 6)
 
 ## Module 3: Technical Skills (Weeks 7-10)
 ### All Assignments: 10 points each
@@ -53,7 +54,8 @@
 4. Added concurrent skill building throughout all modules
 
 ## Time Management Notes:
-- Each week typically has 2 assignments due
+- Each week typically has 2-3 assignments due
 - Technical module has more frequent but smaller assignments
 - Final weeks focus on refinement and presentation
 - No new assignments after Week 14
+- Exhibition artwork preparation in Week 5 for mid-semester display
