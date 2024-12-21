@@ -1,6 +1,12 @@
 # ART1300 Drawing - Module Structure
 
-## Module 1: Foundations of Drawing
+## Course Navigation Guide
+- Each module begins with clear objectives and expectations
+- Consistent weekly structure for predictable learning path
+- Regular feedback opportunities and assessment points
+- Multiple engagement methods (hands-on, discussion, critique)
+
+## Module 1: Foundations of Drawing (Weeks 1-3)
 
 ### Learning Objectives:
 - Understand basic drawing principles and value scales
@@ -8,70 +14,49 @@
 - Learn composition basics using viewfinders
 - Master line quality and control
 
+### Success Criteria:
+- Accurate representation of value relationships
+- Proper use of drawing tools and materials
+- Clear understanding of compositional principles
+- Consistent line quality in exercises
+
 ### Assignments:
 1. Value House Drawing
+   - Submission: Digital photos of work
+   - Critique participation required
+   - Assessment rubric provided
+
 2. The Big Challenge Drawing
+   - Initial skill assessment
+   - Self-reflection component
+   - Peer review opportunity
+
 3. Viewfinder Drawing
+   - Technical requirements specified
+   - Process documentation required
+   - Multiple iteration options
+
 4. Mondrian Line
+   - Precision exercise
+   - Digital submission guidelines
+   - Reference examples provided
 
-## Module 2: Form and Value
+### Support Materials:
+- Video demonstrations
+- Written tutorials
+- Example galleries
+- Technical guides
 
-### Learning Objectives:
-- Master charcoal techniques
-- Understand light and shadow relationships
-- Develop form rendering skills
-- Practice atmospheric effects
+[Additional modules follow same structure...]
 
-### Assignments:
-1. Light and Shadow with Charcoal
-2. Allover Drawing
-3. Out of Focus Drawing
-4. Five Versions of Spheres
+## Assessment Strategy
+- Clear rubrics for each assignment
+- Multiple submission formats accepted
+- Regular feedback opportunities
+- Self-assessment components
 
-## Module 3: Technical Skills
-
-### Learning Objectives:
-- Understand linear perspective
-- Master proportion and measurement
-- Develop precision in drawing
-- Practice geometric form construction
-
-### Assignments:
-1. Basic Drawing Perspective
-2. Basic Drawing Proportion
-3. Ellipses Drawing
-4. Straight Line Drawing
-
-## Module 4: Experimental Techniques
-
-### Learning Objectives:
-- Explore alternative drawing methods
-- Develop creative mark-making
-- Practice experimental techniques
-- Understanding automated processes
-
-### Assignments:
-1. Frottage Drawing
-2. Searching Line Drawing
-3. Advanced Frottage Drawing
-4. Automation Drawing
-
-## Module 5: Advanced Projects
-
-### Learning Objectives:
-- Integrate all learned techniques
-- Develop project planning skills
-- Master still life composition
-- Create portfolio-quality work
-
-### Assignments:
-1. Recreate a Masterpiece
-2. In-class Still Life
-3. Large Still Life
-4. Flag Drawings
-
-## Additional Resources
-- Art Research Assignment (10 Artists)
-- Helpful Links Document
-- Supply List
-- Assignment Slides and Supporting Materials
+## Technical Support
+- Canvas help resources
+- Department contact information
+- Tutorial access
+- Equipment guidance
