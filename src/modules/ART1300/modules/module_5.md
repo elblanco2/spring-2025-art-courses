@@ -1,14 +1,11 @@
-# Module 5: Integration Project
+# Module 5: Integration Project (Weeks 13-14)
 
-## Overview (Weeks 13-14)
-Culminating projects demonstrating technical and creative mastery.
-
-## Learning Objectives:
+## Learning Objectives
 - Integrate all learned techniques
 - Create portfolio-quality work
 - Master still life composition
 
-## Assignments:
+## Assignments
 
 ### 1. Large Still Life Development (Week 13)
 - **Objective:** Complex Composition Planning
@@ -19,10 +16,7 @@ Culminating projects demonstrating technical and creative mastery.
 
 ### 2. Portfolio Work Selection (Week 13)
 - **Objective:** Critical Assessment
-- **Components:**
-  - Work selection process
-  - Documentation planning
-  - Presentation strategy
+- **Submission:** Selected works, documentation plan
 - **Assessment:** Selection criteria, organization
 - **Points:** 10
 
@@ -34,11 +28,6 @@ Culminating projects demonstrating technical and creative mastery.
 - **Points:** 10
 
 ## Portfolio Finalization (Weeks 15-16)
-- Documentation completion
+- Documentation of all work
 - Exhibition preparation
 - Final portfolio review
-
-## Time Management
-- Week 13: Development and planning
-- Week 14: Completion and refinement
-- Weeks 15-16: Documentation and presentation

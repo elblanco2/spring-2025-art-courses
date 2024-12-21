@@ -1,15 +1,12 @@
-# Module 3: Technical Skills
+# Module 3: Technical Skills (Weeks 7-10)
 
-## Overview (Weeks 7-10)
-Intensive focus on technical precision and spatial understanding.
-
-## Learning Objectives:
+## Learning Objectives
 - Understand linear perspective
 - Master proportion and measurement
 - Develop precision in drawing
 - Practice geometric form construction
 
-## Assignments:
+## Assignments
 
 ### 1. Basic One-Point Perspective (Week 7)
 - **Objective:** Fundamental Perspective
@@ -50,14 +47,3 @@ Intensive focus on technical precision and spatial understanding.
 - **Submission:** Progressive construction studies
 - **Assessment:** Form accuracy, technique
 - **Points:** 10
-
-## Weekly Technical Practice
-- Perspective warmups
-- Measurement exercises
-- Form construction drills
-
-## Time Management
-- Week 7: Basic perspective foundations
-- Week 8: Advanced perspective and proportion
-- Week 9: Focus on precision exercises
-- Week 10: Complex form construction

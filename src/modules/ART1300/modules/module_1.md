@@ -1,15 +1,12 @@
-# Module 1: Foundations of Drawing
+# Module 1: Foundations of Drawing (Weeks 1-3)
 
-## Overview (Weeks 1-3)
-This foundational module introduces basic drawing principles and techniques essential for developing observational skills and understanding value relationships.
-
-## Learning Objectives:
+## Learning Objectives
 - Understand basic drawing principles and value scales
 - Develop observational drawing skills
 - Learn composition basics using viewfinders
 - Master line quality and control
 
-## Assignments:
+## Assignments
 
 ### 1. Value House Drawing (Week 1)
 - **Objective:** Understanding Value
@@ -38,13 +35,3 @@ This foundational module introduces basic drawing principles and techniques esse
 - **Submission:** Line quality exercises
 - **Assessment:** Line control, pattern development
 - **Points:** 10
-
-## Weekly Sketchbook Practice
-- Value scales practice
-- Line quality exercises
-- Basic shape studies
-
-## Time Management
-- Week 1: Focus on value understanding
-- Week 2: Emphasis on composition and observation
-- Week 3: Line quality and technical control

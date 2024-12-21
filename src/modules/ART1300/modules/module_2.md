@@ -1,16 +1,13 @@
-# Module 2: Form and Value
+# Module 2: Form and Value (Weeks 4-6)
 
-## Overview (Weeks 4-6)
-Expanded focus on value relationships and form development through various media.
-
-## Learning Objectives:
+## Learning Objectives
 - Master charcoal techniques
 - Understand light and shadow relationships
 - Develop form rendering skills
 - Practice atmospheric effects
 - Create exhibition-ready artwork
 
-## Assignments:
+## Assignments
 
 ### 1. Light and Shadow with Charcoal (Week 4)
 - **Objective:** Value Control in Charcoal
@@ -52,13 +49,3 @@ Expanded focus on value relationships and form development through various media
 - **Study 2:** Low-Key Values
 - **Study 3:** Full Range Values
 - **Points:** 10
-
-## Weekly Sketchbook Practice
-- Form studies
-- Value scale refinement
-- Material experimentation
-
-## Exhibition Notes
-- Artwork must be properly mounted/matted
-- Artist statement required
-- Installation guidelines provided
