@@ -26,7 +26,7 @@ All assignments are worth 10 points each
 
 **Assignments (3 assignments, 30 points)**
 1. Earth Tone Still Life
-2. Art Research (10 Artists)
+2. JSTOR Art Research Project (10 Artists)
 3. Color Value Studies
 
 ### Module 3: Technical Application (Weeks 9-11)
