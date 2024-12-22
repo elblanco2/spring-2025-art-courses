@@ -41,7 +41,7 @@ All assignments are worth 10 points each
 - Develop exhibition pieces
 
 **Assignments (1 assignment, 10 points)**
-1. Art Research (10 Artists)
+1. JSTOR Art Research Project (10 Artists)
 
 ### Portfolio Documentation (Weeks 15-16)
 - Documentation of all work

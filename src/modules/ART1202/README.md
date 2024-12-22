@@ -50,7 +50,7 @@ All assignments are worth 10 points each
 1. Parts of the Puzzle
 2. Paper Texture Study
 3. Letters as Texture
-4. Art Research (10 Artists)
+4. JSTOR Art Research Project (10 Artists)
 5. Design Portfolio Project
 
 ### Portfolio Documentation (Weeks 15-16)

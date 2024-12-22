@@ -51,7 +51,7 @@ All assignments are worth 10 points each
 2. Albers Color Mixing and Transparence
 3. Color Inventory Studies
 4. Design a Poster
-5. Art Research (10 Artists)
+5. JSTOR Art Research Project (10 Artists)
 6. Design Portfolio Project
 
 ### Portfolio Documentation (Weeks 15-16)

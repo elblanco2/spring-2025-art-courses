@@ -49,7 +49,7 @@ All assignments are worth 10 points each
 **Assignments (5 assignments, 50 points)**
 1. Balancing Act
 2. Objects into Achromatic Planes
-3. Art Research (10 Artists)
+3. JSTOR Art Research Project (10 Artists)
 4. Metamorphosis
 5. Design Portfolio Project
 
