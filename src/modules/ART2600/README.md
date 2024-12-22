@@ -37,7 +37,7 @@ All assignments are worth 10 points each
 
 **Assignments (3 assignments, 30 points)**
 1. Movie Color Assignment
-2. Art Research (10 Artists)
+2. JSTOR Art Research Project (10 Artists)
 3. Digital Color Mixing
 
 ### Module 4: Integration & Completion (Weeks 12-14)

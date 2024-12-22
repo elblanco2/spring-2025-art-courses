@@ -25,7 +25,7 @@ All assignments are worth 10 points each
 
 **Assignments (2 assignments, 20 points)**
 1. Cezanne Still Life
-2. Art Research (10 Artists)
+2. JSTOR Art Research Project (10 Artists)
 
 ### Module 3: Technical Application (Weeks 9-11)
 **Learning Objectives**
