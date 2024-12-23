@@ -4,7 +4,7 @@
 An introduction to digital art creation and design using computer applications, focusing on creative expression through various digital media and techniques.
 
 ## Course Structure
-Total Assignments: 14 (140 points)
+Total Assignments: 15 (150 points)
 All assignments are worth 10 points each
 
 ### Module 1: Foundations (Weeks 1-4)
@@ -37,7 +37,7 @@ All assignments are worth 10 points each
 * Create portfolio-quality work
 * Develop professional presentation
 
-**Assignments (5 assignments, 50 points)** 10. Terry Gilliam Style Animation 11. Tessellation Project 12. Vector Design 13. Architectural Font Design 14. Design Portfolio Project
+**Assignments (6 assignments, 60 points)** 10. Terry Gilliam Style Animation 11. Tessellation Project 12. Vector Design 13. Architectural Font Design 14. Design Contest 15. Design Portfolio Project
 
 ### Portfolio Documentation (Weeks 15-16)
 * Documentation of all work
