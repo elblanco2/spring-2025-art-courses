@@ -25,9 +25,9 @@ All assignments are worth 10 points each
 - Create exhibition-ready work
 
 **Assignments (3 assignments, 30 points)**
-1. Digital Collage
-2. Trail Remixed
-3. Digital Color Studies
+4. Digital Collage
+5. Trail Remixed
+6. Digital Color Studies
 
 ### Module 3: Technical Application (Weeks 9-11)
 **Learning Objectives**
@@ -36,9 +36,9 @@ All assignments are worth 10 points each
 - Understanding digital color theory
 
 **Assignments (3 assignments, 30 points)**
-1. Movie Color Assignment
-2. JSTOR Art Research Project (10 Artists)
-3. Digital Color Mixing
+7. Movie Color Assignment
+8. JSTOR Art Research Project (10 Artists)
+9. Digital Self Portrait
 
 ### Module 4: Integration & Completion (Weeks 12-14)
 **Learning Objectives**
@@ -47,11 +47,11 @@ All assignments are worth 10 points each
 - Develop professional presentation
 
 **Assignments (5 assignments, 50 points)**
-1. Terry Gilliam Style Animation
-2. Tessellation Project
-3. Vector Design
-4. Architectural Font Design
-5. Design Portfolio Project
+10. Terry Gilliam Style Animation
+11. Tessellation Project
+12. Vector Design
+13. Architectural Font Design
+14. Design Portfolio Project
 
 ### Portfolio Documentation (Weeks 15-16)
 - Documentation of all work
