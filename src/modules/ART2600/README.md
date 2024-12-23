@@ -1,4 +1,4 @@
-# ART2600 Computer Art
+# ART2600C Computer Art
 
 ## Course Description
 An introduction to digital art creation and design using computer applications, focusing on creative expression through various digital media and techniques.
