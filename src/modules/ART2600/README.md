@@ -9,9 +9,9 @@ All assignments are worth 10 points each
 
 ### Module 1: Foundations (Weeks 1-4)
 **Learning Objectives**
-- Master basic digital imaging techniques
-- Understand layer manipulation
-- Develop digital composition skills
+* Master basic digital imaging techniques
+* Understand layer manipulation
+* Develop digital composition skills
 
 **Assignments (3 assignments, 30 points)**
 1. Shark Merge
@@ -20,9 +20,9 @@ All assignments are worth 10 points each
 
 ### Module 2: Digital Development (Weeks 5-8)
 **Learning Objectives**
-- Master digital collage techniques
-- Understand color and composition
-- Create exhibition-ready work
+* Master digital collage techniques
+* Understand color and composition
+* Create exhibition-ready work
 
 **Assignments (3 assignments, 30 points)**
 4. Digital Collage
@@ -31,9 +31,9 @@ All assignments are worth 10 points each
 
 ### Module 3: Technical Application (Weeks 9-11)
 **Learning Objectives**
-- Master advanced digital techniques
-- Develop precision in execution
-- Understanding digital color theory
+* Master advanced digital techniques
+* Develop precision in execution
+* Understanding digital color theory
 
 **Assignments (3 assignments, 30 points)**
 7. Movie Color Assignment
@@ -42,9 +42,9 @@ All assignments are worth 10 points each
 
 ### Module 4: Integration & Completion (Weeks 12-14)
 **Learning Objectives**
-- Integrate all digital concepts
-- Create portfolio-quality work
-- Develop professional presentation
+* Integrate all digital concepts
+* Create portfolio-quality work
+* Develop professional presentation
 
 **Assignments (5 assignments, 50 points)**
 10. Terry Gilliam Style Animation
@@ -54,6 +54,6 @@ All assignments are worth 10 points each
 14. Design Portfolio Project
 
 ### Portfolio Documentation (Weeks 15-16)
-- Documentation of all work
-- Exhibition preparation
-- Final portfolio review
+* Documentation of all work
+* Exhibition preparation
+* Final portfolio review
