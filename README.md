@@ -12,6 +12,7 @@ Project to organize and migrate art course content to Canvas LMS modules for Spr
 6. ART 2500C-30 Painting 1 (Wed 12:20PM - 1:10PM)
 7. ART 2501C-40 Painting 2 (Wed 12:20PM - 1:10PM)
 8. ART 2600C-88 Computer Art (Wed 9:40AM - 10:30AM)
+9. ARH1000 Introduction to Art (Wed TBD)
 
 ## Project Structure
 
@@ -28,6 +29,7 @@ Project to organize and migrate art course content to Canvas LMS modules for Spr
     /ART2500C
     /ART2501C
     /ART2600C
+    /ARH1000
   /components        # Reusable React components
 /docs               # Project documentation
 /tests              # Test files
