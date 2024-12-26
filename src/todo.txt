@@ -1,0 +1,27 @@
+ARH1000 Course Development TODO List
+
+1. Content Organization
+- Install and configure mdBook MCP for content processing
+- Process OCR chapters from /Spring2025files/textbook_optimized/
+- Organize images from image bank into appropriate module folders
+- Create standardized markdown templates for modules
+
+2. GitHub Structure Setup
+- Create main module directories (5 modules)
+- Set up week subdirectories (3 per module)
+- Establish content guidelines document
+- Create templates for:
+  * Core content (2,500 words)
+  * Virtual museum tours
+  * Assignments
+  * Expandable sections
+
+3. Virtual Tour Integration
+- Map Google Arts & Culture tours to modules
+- Create guided viewing templates
+- Develop reflection questions framework
+
+Next Actions:
+1. Install mdBook MCP
+2. Process first chapter as test case
+3. Review output and adjust templates as needed
