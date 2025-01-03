@@ -1,0 +1,20 @@
+{
+  "canvas_url": "https://mdc.instructure.com",
+  "course_id": "ART2501C",
+  "token": "YOUR_TOKEN_HERE",
+  "module_structure": {
+    "Module 1: Historical Studies": [
+      "To paint like Cezanne...."
+    ],
+    "Module 2: Artistic Movements": [
+      "Cubist Studies",
+      "Fauvism Studies"
+    ],
+    "Module 3: Research": [
+      "JSTOR Database Assignment"
+    ]
+  },
+  "matching_threshold": 0.8,
+  "auto_confirm": false,
+  "debug_mode": false
+}

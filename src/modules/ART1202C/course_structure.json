@@ -1,0 +1,32 @@
+{
+  "canvas_url": "https://mdc.instructure.com",
+  "course_id": "ART1202C",
+  "token": "YOUR_TOKEN_HERE",
+  "module_structure": {
+    "Module 1: Shape and Design": [
+      "Barcode Assignment",
+      "Twofold shape design",
+      "Zentangle + Canceling = Dynamic Designs"
+    ],
+    "Module 2: Form Development": [
+      "Overlapping Figures",
+      "Objects into Achromatic Planes",
+      "Leaf as Shape"
+    ],
+    "Module 3: Advanced Applications": [
+      "Architecture Abstraction",
+      "Bauhaus Maze",
+      "Retinal Studies"
+    ],
+    "Module 4: Portfolio Development": [
+      "Parts of the Puzzle",
+      "Paper Texture Study",
+      "Letters as Texture",
+      "Jstor Database Project",
+      "Design Portfolio Project"
+    ]
+  },
+  "matching_threshold": 0.8,
+  "auto_confirm": false,
+  "debug_mode": false
+}

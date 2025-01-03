@@ -1,0 +1,32 @@
+{
+  "canvas_url": "https://mdc.instructure.com",
+  "course_id": "ART1300C",
+  "token": "YOUR_TOKEN_HERE",
+  "module_structure": {
+    "Module 1: Drawing Fundamentals": [
+      "The Big Challenge",
+      "Value House Drawing Assignment",
+      "Viewfinder"
+    ],
+    "Module 2: Line and Form": [
+      "The Mondrian Line Assignment",
+      "Light and Shadow with Charcoal Drawing",
+      "All over Drawing"
+    ],
+    "Module 3: Advanced Techniques": [
+      "Out of Focus Monet Drawing",
+      "Perspective",
+      "Proportion"
+    ],
+    "Module 4: Final Projects": [
+      "Ten Flag Drawings",
+      "Frottage Drawing",
+      "Ellipses Drawing",
+      "Straight-line Drawing",
+      "Searching Line Drawing"
+    ]
+  },
+  "matching_threshold": 0.8,
+  "auto_confirm": false,
+  "debug_mode": false
+}

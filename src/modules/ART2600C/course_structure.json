@@ -1,0 +1,27 @@
+{
+  "canvas_url": "https://mdc.instructure.com",
+  "course_id": "ART2600C",
+  "token": "YOUR_TOKEN_HERE",
+  "module_structure": {
+    "Module 1: Digital Foundations": [
+      "Digital Collage",
+      "Digital Color Studies"
+    ],
+    "Module 2: Research and Portrait": [
+      "JSTOR Art Research Project (10 Artists)",
+      "Digital Self Portrait"
+    ],
+    "Module 3: Animation and Design": [
+      "Terry Gilliam Style Animation",
+      "Tessellation Project",
+      "Architectural Font"
+    ],
+    "Module 4: Final Projects": [
+      "Vector Design",
+      "Design Portfolio Project"
+    ]
+  },
+  "matching_threshold": 0.8,
+  "auto_confirm": false,
+  "debug_mode": false
+}

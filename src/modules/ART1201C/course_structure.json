@@ -1,0 +1,33 @@
+{
+  "canvas_url": "https://mdc.instructure.com",
+  "course_id": "ART1201C",
+  "token": "YOUR_TOKEN_HERE",
+  "module_structure": {
+    "Module 1: Basic Elements": [
+      "Barcode Assignment",
+      "Four Lines Three Times",
+      "Figure-Ground Assignment"
+    ],
+    "Module 2: Pattern and Form": [
+      "Tessellation Assignment",
+      "Solids",
+      "Lines and Shape Problems"
+    ],
+    "Module 3: Advanced Composition": [
+      "Concealing and Revealing",
+      "Architecture Abstraction",
+      "Bauhaus Maze"
+    ],
+    "Module 4: Final Projects": [
+      "Balancing Act",
+      "Retinal Studies",
+      "Objects into Achromatic Planes",
+      "JSTOR Project",
+      "Metamorphosis",
+      "Design Portfolio Project"
+    ]
+  },
+  "matching_threshold": 0.8,
+  "auto_confirm": false,
+  "debug_mode": false
+}

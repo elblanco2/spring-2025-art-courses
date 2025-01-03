@@ -1,0 +1,33 @@
+{
+  "canvas_url": "https://mdc.instructure.com",
+  "course_id": "ART1205C",
+  "token": "YOUR_TOKEN_HERE",
+  "module_structure": {
+    "Module 1: Color Fundamentals": [
+      "Barcode Assignment",
+      "Hue as Value study",
+      "Color Wheel"
+    ],
+    "Module 2: Color Theory Application": [
+      "Objects into Achromatic Planes",
+      "Albers Interaction Studies",
+      "Four Color Spectrum"
+    ],
+    "Module 3: Advanced Color Studies": [
+      "Mixed Colors and Small Marks",
+      "Bauhaus Maze",
+      "Retinal Studies"
+    ],
+    "Module 4: Final Projects": [
+      "Movie Color Project",
+      "Albers Color Mixing and Transparence",
+      "Color Inventory Studies",
+      "Design a Poster",
+      "JSTOR Database Project",
+      "Design Portfolio Project"
+    ]
+  },
+  "matching_threshold": 0.8,
+  "auto_confirm": false,
+  "debug_mode": false
+}

@@ -1,0 +1,24 @@
+{
+  "canvas_url": "https://mdc.instructure.com",
+  "course_id": "ART2301C",
+  "token": "YOUR_TOKEN_HERE",
+  "module_structure": {
+    "Module 1: Experimental Techniques": [
+      "Stencils with initials",
+      "All over Anthropomorphic Animals",
+      "Dig up a Cézanne Still Life"
+    ],
+    "Module 2: Research and Development": [
+      "Find 10 new artists on the Artstor Database (Jstor)",
+      "Finding a Subject by Cropping"
+    ],
+    "Module 3: Mixed Media": [
+      "Large still life frottage and color transfer",
+      "Out of Focus Mixed Media Assignment",
+      "Pop goes the Easel"
+    ]
+  },
+  "matching_threshold": 0.8,
+  "auto_confirm": false,
+  "debug_mode": false
+}
