@@ -1,0 +1,24 @@
+{
+  "canvas_url": "https://mdc.instructure.com",
+  "course_id": "ART2500C",
+  "token": "YOUR_TOKEN_HERE",
+  "module_structure": {
+    "Module 1: Foundation Techniques": [
+      "Assignment 1",
+      "Black & White Value Scale Mix Painting Assignment",
+      "Black, White, & Gray Still Life Paintings Assignment"
+    ],
+    "Module 2: Color and Form": [
+      "Earth Tone Still Life",
+      "Change of Value",
+      "Retinal Studies"
+    ],
+    "Module 3: Advanced Studies": [
+      "Recreate a Masterpiece (or a detail thereof) Painting Assignment",
+      "Self Portrait Painting Assignment"
+    ]
+  },
+  "matching_threshold": 0.8,
+  "auto_confirm": false,
+  "debug_mode": false
+}
