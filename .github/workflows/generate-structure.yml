@@ -1,0 +1,25 @@
+name: Generate Course Structure
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'src/modules/**'
+    branches:
+      - main
+
+jobs:
+  generate-structure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Create Course Structure
+        run: |
+          mkdir -p scripts
+          node scripts/generateStructure.js
