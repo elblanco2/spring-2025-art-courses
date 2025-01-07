@@ -114,8 +114,6 @@ const Week${weekNumber}Page = () => {
           </CardContent>
         )}
       </Card>
-
-      {/* Rest of template... */}
     </div>
   );
 };
