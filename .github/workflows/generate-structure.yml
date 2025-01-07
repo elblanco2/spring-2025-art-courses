@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - 'src/modules/**'
+      - '.github/workflows/**'
     branches:
       - main
 
@@ -19,7 +20,66 @@ jobs:
         with:
           node-version: '18'
           
-      - name: Create Course Structure
+      - name: Create Directories
         run: |
-          mkdir -p scripts
-          node scripts/generateStructure.js
+          for course in ART1201C ART1202C ART1205C ART1300C ART2301C ART2500C ART2501C ART2600C; do
+            mkdir -p "src/modules/$course/weeks"
+          done
+          
+      - name: Generate Week Components
+        run: |
+          for course in ART1201C ART1202C ART1205C ART1300C ART2301C ART2500C ART2501C ART2600C; do
+            for week in {1..15}; do
+              cat > "src/modules/$course/weeks/Week$week.tsx" << 'EOF'
+              import React, { useState } from 'react';
+              import { ChevronDown, ChevronUp, BookOpen, Calendar, CheckCircle, Info } from 'lucide-react';
+              import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
+
+              const Week${week}Page = () => {
+                const [expandedSections, setExpandedSections] = useState({
+                  overview: true,
+                  objectives: false,
+                  assignments: false,
+                  resources: false
+                });
+
+                const toggleSection = (section) => {
+                  setExpandedSections((prev) => ({
+                    ...prev,
+                    [section]: !prev[section]
+                  }));
+                };
+
+                const weekData = {
+                  weekNumber: ${week},
+                  title: "",
+                  description: "",
+                  learningObjectives: [],
+                  assignments: [],
+                  resources: [],
+                  competencies: [],
+                  nextSteps: ""
+                };
+
+                return (
+                  <div className="max-w-4xl mx-auto p-6 space-y-6">
+                    <div className="bg-blue-50 p-6 rounded-lg">
+                      <h1 className="text-2xl font-bold mb-2">Week {weekData.weekNumber}</h1>
+                      <p className="text-gray-600">{weekData.description}</p>
+                    </div>
+                  </div>
+                );
+              };
+
+              export default Week${week}Page;
+              EOF
+            done
+          done
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/modules/
+          git commit -m "Generate weekly components" || echo "No changes to commit"
+          git push
