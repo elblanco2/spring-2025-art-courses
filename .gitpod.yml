@@ -11,7 +11,5 @@ ports:
 
 github:
   prebuilds:
-    # enable for pull requests
     pullRequests: true
-    # enable for push to main
     branches: true
